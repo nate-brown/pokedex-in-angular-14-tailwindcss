@@ -27,6 +27,7 @@ yarn-error.log
 !.vscode/launch.json
 !.vscode/extensions.json
 .history/*
+pokedex-in-angular-14-tailwindcss.code-workspace
 
 # Miscellaneous
 /.angular/cache
